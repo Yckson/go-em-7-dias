@@ -1,6 +1,6 @@
 # Roadmap Intensivo de Go em 7 Dias
 
-Um roadmap intensivo de 7 dias para você dominar Go (Golang) em uma semana, considerando sua experiência com C e JavaScript. Ele foca nos conceitos essenciais, práticas recomendadas e construção de projetos para consolidar o aprendizado.
+Um roadmap intensivo de 7 dias para você dominar Go (Golang) em uma semana, considerando experiência com C e JavaScript. Ele foca nos conceitos essenciais, práticas recomendadas e construção de projetos para consolidar o aprendizado.
 
 ## 🔥 Roadmap Intensivo de Go em 7 Dias
 
